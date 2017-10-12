@@ -1,0 +1,5 @@
+package com.BMS.Models;
+@Table
+public class User {
+
+}
